@@ -1,0 +1,117 @@
+categories:
+- computers
+conversations:
+- - What is a computer?
+  - A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
+  - The thing you're using to talk to me is a computer.
+  - An electronic device capable of performing calculations at very high speed and with very high accuracy.
+  - A device which maps one set of numbers onto another set of numbers.
+- - What is a super computer?
+  - Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
+  - A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+  - You know, the big iron!
+- - What is a computer?
+  - A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
+  - The thing you're using to talk to me is a computer.
+  - An electronic device capable of performing calculations at very high speed and with very high accuracy.
+  - A device which maps one set of numbers onto another set of numbers.
+  - It can process and store vast amounts of data and execute complex tasks using programmable logic.
+- - What is a supercomputer?
+  - Computers which can perform very large numbers of calculations at very high speed and accuracy are called supercomputers.
+  - A supercomputer is a computer which operates at several orders of magnitude greater speed and capacity than everyday general-purpose computers, like the one you are talking to me on.
+  - You know, the big iron!
+  - Supercomputers are specifically designed to handle highly complex scientific and engineering calculations that require immense computational power.
+  - These machines typically consist of multiple processors or computing nodes interconnected to work together and tackle large-scale problems efficiently.
+  - Supercomputers are used for tasks such as weather forecasting, molecular modeling, simulating nuclear reactions, and analyzing massive datasets.
+  - They often require specialized infrastructure, including advanced cooling systems and dedicated facilities, to handle the high power consumption and heat generation.
+- - What is artificial intelligence?
+  - Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans.
+  - AI involves the development of algorithms and models that enable computers to perform tasks that typically require human intelligence, such as recognizing patterns, understanding natural language, and making decisions.
+  - It encompasses various subfields, including machine learning, natural language processing, computer vision, and robotics.
+  - AI has numerous applications across industries, including autonomous vehicles, virtual assistants, medical diagnostics, financial analysis, and personalized recommendations.
+  - As AI technology advances, there is ongoing research and development to create more sophisticated and capable AI systems, including the pursuit of general artificial intelligence (AGI), which would exhibit human-like intelligence across a wide range of tasks.
+- - What is blockchain?
+  - Blockchain is a decentralized and distributed digital ledger that records transactions across multiple computers or nodes in a secure and transparent manner.
+  - It allows for the creation of a tamper-proof and immutable record of transactions, eliminating the need for a central authority or intermediary.
+  - Each transaction, or block, is cryptographically linked to the previous block, forming a chain of blocks, hence the name blockchain.
+  - Blockchain technology provides transparency, security, and trust in various applications, including cryptocurrency transactions (such as Bitcoin and Ethereum), supply chain management, smart contracts, and decentralized applications (DApps).
+  - The decentralized nature of blockchain makes it resistant to manipulation or censorship, and it enables peer-to-peer interactions without relying on a central entity.
+  - The potential of blockchain extends beyond finance, with exploration in areas like healthcare, voting systems, intellectual property rights, and decentralized identity management.
+- - Who invented computers?
+  - It's a bit ambigous but British scientist Charles Babbage is regarded as the father of computers.
+  - Ada Lovelace, an English mathematician, is also recognized for her contributions to early computing. She wrote the first algorithm intended to be processed by a machine, making her a pioneer in computer programming.Konrad Zuse, a German engineer, developed the first programmable computer called the Z3 in the 1940s.
+  - Alan Turing, a British mathematician, played a significant role in the development of theoretical foundations for computer science and artificial intelligence.
+  - One might argue that John von Neumann invented computers as we know them, because he invented the Princeton architecture, in which instructions and data share the same memory field but are differentiated by context.
+- - What was the first computer?
+  - It's hard to say, but the ENIAC is regarded as the first 'real' computer. It was developed at the University of Pennsylvania in 1946.
+  - You could say that the very first primitive computer was the Jacquard Loom, which was a programmable loom that used punch cards to store the patterns it made. This made it a reprogrammable mechanical device.
+  - The Manchester Mark 1, developed at the University of Manchester in 1948, is also considered one of the earliest stored-program computers.
+  - The Colossus, a series of computers developed by British codebreakers during World War II, was used to decrypt encrypted German messages.
+  - It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946.
+  - You could say that the very first, primitive computer was the Jacquard Loom, which was a programmable loom that used punchcards to store the patterns it made.  This made it a reprogrammable mechanical device.
+- - What is a microprocessor?
+  - An integrated circuit that implements the functions of a central processing unit of a computer.
+  - A really small circuit that stores instructions and performs calculations for the computer.
+  - The heart of the computer, to put it simply.
+  - The brain of a computer, to put it simply.
+  - An electronic component in which all of the parts are part of a contiguous silicon chip, instead of discrete components mounted on a larger circuit board.
+  - Microprocessors are commonly found in personal computers, smartphones, and other electronic devices, where they execute instructions and manage data processing tasks. They are designed to be compact, efficient, and capable of performing calculations at high speeds.
+  - The first commercially available microprocessor was the Intel 4004, released in 1971. It revolutionized the field of computing by integrating the major components of a computer's central processing unit onto a single chip.
+  - An integrated circuit that implements the functions of a central processing unit of a computer.
+  - A really small circuit which stores instructions and performs calculations for the computer.
+  - The heart of the computer, to put it simply.
+  - The brain of a computer, to put it simply.
+  - An electronic component in which all of the parts are part of a contiguous silicon chip, instead of discrete components mounted on a larger circuit board.
+- - What is an operating system?
+  - Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.
+  - Windows, macOS, Linux, UNIX... all of them are types of operating systems.
+  - Android and iOS are operating systems for mobile devices.
+  - An operating system implements the basic functions of a computer, such as memory access, process management, and peripheral access, providing a user-friendly interface to interact with the computer.
+  - It also manages system resources, handles file management, and ensures security and stability of the computer system.
+  - Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS.
+  - Windows, MacOS, Linux, UNIX... all of them are types of OSes.
+  - Android and iOS are operating systems for mobile devices.
+  - Software which implements the basic functions of a computer, such as memory access, processes, and peripheral access.
+- - Which is better Windows or macOS?
+  - It depends on the specific needs and preferences of the user.
+  - Both Windows and macOS have their own strengths and weaknesses.
+  - Windows is widely used and supports a vast range of software and hardware. It is known for its compatibility and availability of a wide variety of applications.
+  - macOS, on the other hand, is known for its sleek design, seamless integration with Apple hardware, and strong security features.
+  - The choice between Windows and macOS ultimately depends on factors such as personal preference, specific software requirements, and hardware compatibility.
+  - Some users may prefer the customizable nature of Windows, while others may appreciate the seamless integration and user experience of macOS.
+  - It depends on which machine you're using to talk to me!
+  - I'd prefer to not hurt your feelings.
+  - Linux, always Linux!
+  - What are you trying to accomplish.  The OS should support your goals.
+- - Name some computer companies?
+  - Do you mean hardware or software companies?
+  - Apple manufactures hardware and develops software to run on its devices.
+  - Microsoft primarily develops operating systems and software applications.
+  - HP is a prominent computer hardware manufacturer.
+  - Dell, Lenovo, Asus, Acer, IBM, Toshiba, and many other companies are well-known computer hardware manufacturers.
+  - In the software realm, Adobe, Oracle, SAP, Google, and IBM are notable companies that develop software solutions for various purposes.
+  - Do you mean hardware or software?
+  - Apple makes hardware and software to run on it.  Microsft only makes operating systems.  HP makes only computers.  These are just few names among several hundred others.
+- - Who uses super computers?
+  - Anybody who wants to work with large numbers quickly and with high accuracy can benefit from supercomputers.
+  - Supercomputers are commonly used by scientists, researchers, and engineers in various fields.
+  - Meteorological departments, such as the MET department, utilize supercomputers for weather forecasting and climate modeling.
+  - Organizations like NASA employ supercomputers for simulations, space exploration, and data analysis.
+  - Industries such as pharmaceuticals, energy, finance, defense, and automotive also rely on supercomputers for complex calculations, simulations, and data-intensive tasks.
+  - Academic institutions and national laboratories often use supercomputers for scientific research and computational modeling.
+  - Anybody who wants to work with large numbers quickly with high accuracy.
+  - Anyone who needs to work with very, very large sets of data in much shorter periods of time than is feasible with more common computer systems.
+  - Supercomputers are generally used by scientists and researchers.
+  - I bet the MET department uses them.
+  - You can definitely find few of them at NASA.
+- - How does a computer work?
+  - Computers are very dumb.  They only execute instructions given by humans.
+  - Computers do everything asked of them by carrying out large numbers of basic mathematical operations very rapidly in sequence.
+  - Computers perform very large number of calculations to get the result.
+  - Just like everything it all comes down to math!
+  - Computers follow a series of instructions given by humans to perform tasks.
+  - Computers execute instructions by carrying out a large number of basic mathematical operations rapidly in sequence.
+  - Through a combination of hardware components such as the central processing unit (CPU), memory, storage devices, and input/output devices, a computer processes data and performs calculations.
+  - Binary code, consisting of 0s and 1s, represents the fundamental language understood by computers, allowing them to process and manipulate information.
+  - At its core, computer functioning relies on mathematical operations, logic gates, and electrical signals that form the basis of digital computing.
+  - Computers use a fetch-decode-execute cycle, where instructions are fetched from memory, decoded, and then executed by the CPU to perform specific operations.
